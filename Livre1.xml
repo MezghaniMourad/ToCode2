@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livre>
+   <titre>Livre</titre>
+   <auteurs>
+      <auteur>
+         <nom>1ere auteur</nom>
+         <prenom>1ere auteur</prenom>
+      </auteur>
+      <auteur>
+         <nom>2eme auteur</nom>
+         <prenom>2eme auteur</prenom>
+      </auteur>
+   </auteurs>
+   <sections>
+      <section>
+         <titre>1ere section</titre>
+         <chapitres>
+            <chapitre>
+               <titre>1ere chapitre</titre>
+               <paragraphes>
+                  <paragraphe>1ere paragraphe</paragraphe>
+                  <paragraphe>2eme paragraphe</paragraphe>
+               </paragraphes>
+            </chapitre>
+            <chapitre>
+               <titre>2eme chapitre</titre>
+               <paragraphes>
+                  <paragraphe>1ere paragraphe</paragraphe>
+                  <paragraphe>2eme paragraphe</paragraphe>
+               </paragraphes>
+            </chapitre>
+         </chapitres>
+      </section>
+      <section>
+         <titre>2eme section</titre>
+         <chapitres>
+            <chapitre>
+               <titre>1ere chapitre</titre>
+               <paragraphes>
+                  <paragraphe>1ere paragraphe</paragraphe>
+                  <paragraphe>2eme paragraphe</paragraphe>
+               </paragraphes>
+            </chapitre>
+            <chapitre>
+               <titre>2eme chapitre</titre>
+               <paragraphes>
+                  <paragraphe>1ere paragraphe</paragraphe>
+                  <paragraphe>2eme paragraphe</paragraphe>
+               </paragraphes>
+            </chapitre>
+         </chapitres>
+      </section>
+   </sections>
+</livre>
